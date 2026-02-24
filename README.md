@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Javascript and nodejs**
 
-- 📫 How to reach me **rahamankazembe@outlook.com**
+- 📫 How to reach me **rahamankazembe@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
