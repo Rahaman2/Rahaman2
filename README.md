@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rahamankazembe](https://medium.com/@rahamankazembe)
 
-- 💬 Ask me about **Javascript and nodejs**
+- 💬 Ask me about **nodejs/java**
 
 - 📫 How to reach me **rahamankazembe@gmail.com**
 
