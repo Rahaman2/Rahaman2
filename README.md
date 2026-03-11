@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [A Desktop Video Editor with caption auto detect out of the box](https://github.com/Rahaman2/video-voiceover)
 
-- 🌱 I’m currently learning **Getting thinkgs done**
+- 🌱 I’m currently learning **How to be effective**
 
 - 📝 I regularly write articles on [https://medium.com/@rahamankazembe](https://medium.com/@rahamankazembe)
 
