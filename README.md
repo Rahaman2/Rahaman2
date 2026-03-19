@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahaman2" alt="rahaman2" /></a> </p>
 
-- 🔭 I’m currently working on [A Desktop Video Editor with caption auto detect out of the box](https://github.com/Rahaman2/video-voiceover)
+- 🔭 I’m currently working on [A Desktop Video Editor with caption auto detect out of the box](https://github.com/Rahaman2/video-voiceover and matricmate.co.za)
 
 - 🌱 I’m currently learning **How to be effective**
 
