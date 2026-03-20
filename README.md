@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahaman kazembe</h1>
+<h1 align="center">Hi 👋,  I'm Rahaman kazembe</h1>
 <center>
     <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="A coding image gif">
 </center>
